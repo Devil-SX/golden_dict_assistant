@@ -1,4 +1,4 @@
-# GoldenDict History Assitant
+# GoldenDict History Assistant
 
 A tiny tool fetching words in golden dict history file
 
