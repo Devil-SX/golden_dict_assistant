@@ -1,5 +1,7 @@
 # GoldenDict History Assistant
 
+    My English Learning Companian
+
 A tiny tool fetching words in golden dict history file
 
 # Get Started
